@@ -1,0 +1,46 @@
+D:\database code first\Learning\import csv\import csv\obj\Debug\import csv.csprojResolveAssemblyReference.cache
+D:\database code first\Learning\import csv\import csv\bin\ApplicationInsights.config
+D:\database code first\Learning\import csv\import csv\bin\roslyn\csc.exe
+D:\database code first\Learning\import csv\import csv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\database code first\Learning\import csv\import csv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\database code first\Learning\import csv\import csv\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\database code first\Learning\import csv\import csv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\database code first\Learning\import csv\import csv\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\database code first\Learning\import csv\import csv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\database code first\Learning\import csv\import csv\bin\roslyn\System.Collections.Immutable.dll
+D:\database code first\Learning\import csv\import csv\bin\roslyn\System.Reflection.Metadata.dll
+D:\database code first\Learning\import csv\import csv\bin\roslyn\vbc.exe
+D:\database code first\Learning\import csv\import csv\bin\roslyn\VBCSCompiler.exe
+D:\database code first\Learning\import csv\import csv\bin\roslyn\VBCSCompiler.exe.config
+D:\database code first\Learning\import csv\import csv\bin\import csv.dll.config
+D:\database code first\Learning\import csv\import csv\bin\import csv.dll
+D:\database code first\Learning\import csv\import csv\bin\import csv.pdb
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.Agent.Intercept.dll
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.DependencyCollector.dll
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.Web.dll
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.WindowsServer.dll
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.ApplicationInsights.dll
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.Web.Infrastructure.dll
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Helpers.dll
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Mvc.dll
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Razor.dll
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Webpages.Deployment.dll
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Webpages.dll
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Webpages.Razor.dll
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.DependencyCollector.xml
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.Web.xml
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.AI.WindowsServer.xml
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.ApplicationInsights.xml
+D:\database code first\Learning\import csv\import csv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Razor.xml
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Webpages.xml
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Webpages.Deployment.xml
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Webpages.Razor.xml
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Helpers.xml
+D:\database code first\Learning\import csv\import csv\bin\System.Web.Mvc.xml
+D:\database code first\Learning\import csv\import csv\obj\Debug\import csv.dll
+D:\database code first\Learning\import csv\import csv\obj\Debug\import csv.pdb
